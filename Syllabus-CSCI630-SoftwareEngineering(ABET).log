@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.15 (TeX Live 2014) (preloaded format=pdflatex 2014.5.25)  28 DEC 2015 23:31
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017) (preloaded format=pdflatex 2017.10.5)  22 OCT 2018 23:32
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Syllabus-CSCI630-SoftwareEngineering(ABET).tex
 (./Syllabus-CSCI630-SoftwareEngineering(ABET).tex
-LaTeX2e <2014/05/01>
-Babel <3.9k> and hyphenation patterns for 78 languages loaded.
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2007/10/19 v1.4h Standard LaTeX document class
-(/usr/local/texlive/2014/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
+LaTeX2e <2017-04-15>
+Babel <3.10> and hyphenation patterns for 22 language(s) loaded.
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2017basic/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
 )
 \c@part=\count79
 \c@section=\count80
@@ -50,38 +50,23 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 17.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 17.
+ [1
 
-Underfull \hbox (badness 10000) in paragraph at lines 14--18
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 20--22
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 24--27
-
- []
-
-[1
-
-{/usr/local/texlive/2014/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+{/usr/local/texlive/2017basic/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 (./Syllabus-CSCI630-SoftwareEngineering(ABET).aux) ) 
 Here is how much of TeX's memory you used:
- 231 strings out of 493117
- 2824 string characters out of 6135433
- 54909 words of memory out of 5000000
- 3770 multiletter control sequences out of 15000+600000
+ 231 strings out of 494437
+ 2844 string characters out of 6166645
+ 50194 words of memory out of 5000000
+ 3652 multiletter control sequences out of 15000+600000
  7895 words of font info for 28 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 22i,6n,19p,439b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2014/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2014/tex
-mf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2014/texmf
--dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Syllabus-CSCI630-SoftwareEngineering(ABET).pdf (1 page, 40784
+ 319 hyphenation exceptions out of 8191
+ 22i,6n,19p,318b,185s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2017bas
+ic/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/201
+7basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/
+2017basic/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on Syllabus-CSCI630-SoftwareEngineering(ABET).pdf (1 page, 42038
  bytes).
 PDF statistics:
  20 PDF objects out of 1000 (max. 8388607)
