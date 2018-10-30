@@ -1,9 +1,11 @@
 \documentclass[12pt]{article}
+\usepackage{hyperref}
 
 \newlength\tindent
 \setlength{\tindent}{\parindent}
 \setlength{\parindent}{0pt}
 \renewcommand{\indent}{\hspace*{\tindent}}
+\sloppy
 
 \title{Syllabus: CSCI 630 Software Design \& Maintenance}
 \author{Kevin Buffardi}
@@ -24,7 +26,17 @@
   \noindent
   Laptop computer; No textbook required
 
-  Recommended reading: "Design Patterns: Elements of Reusable Object-Oriented Software" (Gamma, Helm, Johnson, Vlissides) ISBN: 0-201-63361-2
+  Suggested reading: 
+  
+  \smallskip
+  "Design Patterns: Elements of Reusable Object-Oriented Software"\\
+  (Gamma, Helm, Johnson, Vlissides)\\
+  ISBN: 0-201-63361-2
+  
+  \smallskip
+  "The Mythical Man-Month: Essays on Software Engineering"\\
+  (Brooks)\\
+  ISBN: 0-201-83595-9
 
   \subsection*{Schedule}
   \noindent
@@ -47,6 +59,24 @@
     \item Static and Coverage Analysis (\textit{PMD, Cobertura})
     \item Project review
   \end{enumerate}
+
+  \subsection*{Learning Outcomes}
+  \noindent
+  Learning comes in different forms. From this course, students are expected to \textit{minimally} gain the following learning outcomes, with \textbf{Core Body of Knowledge} topics from \href{https://www.acm.org/binaries/content/assets/education/gsew2009.pdf}{ACM Curriculum Guidelines for Graduate Degree Programs in Software Engineering}
+
+  \begin{itemize}
+    \item \textit{Comprehension and Application} of \textbf{Software Design Fundamentals} including: general design concepts; context of software design; and software design process
+    \item \textit{Application} of \textbf{Key Issues in Software Design} including: distribution of components; interaction and presentation; and data persistence
+    \item \textit{Application and Analysis} of \textbf{Software Structure and Architecture} including architectural styles (macro architectural patterns) and design patterns (micro architectural patterns) 
+    \item \textit{Application} of \textbf{Software Design Quality Analysis and Evaluation} including: quality attributes; quality analysis and evaluation techniques; and measures
+    \item \textit{Application} of \textbf{Software Design Notations} including both structural (static) descriptions and behavioral (dynamic) descriptions
+    \item \textit{Application and Analysis} of \textbf{Software Design Strategies and Methods} with an emphasis on Object-oriented design
+    \item \textit{Application and Analysis} of \textbf{Testing Techniques} with a focus on unit testing and \textbf{Test-Related Measures} by evaluation of tests with code coverage
+    \item \textit{Comprehension} of \textbf{Software Maintenance Fundamentals} including: definitions and terminology; nature of maintenance; and need for maintenance
+    \item \textit{Application} of \textbf{Key Issues in Software Maintenance, the Maintenance Process, and Techniques for Maintenance} including: technical and management issues; software maintenance measurement; maintenance activities; program comprehension; and reengineering 
+  \end{itemize}
+
+  These outcomes are categorized according to Bloom's Taxonomy of the Cognitive domain, as \textit{italicized}.
 
 
 
