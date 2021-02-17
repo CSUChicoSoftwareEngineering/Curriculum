@@ -1,0 +1,25 @@
+---
+title: "Computational Thinking - Syllabus"
+output:
+  pdf_document: default
+urlcolor: blue
+---
+
+# Description
+
+This course explores broad concepts and applications of Computer Science including Human-Computer Interaction, problem solving, web design, programming, computing and data analysis, and robotics. The course introduces programming in a graphical, block-based development environment. Synchronous online discussion and laboratory; laptop or desktop computer is required.
+
+*This course aligns with the [Exploring Computer Science](http://www.exploringcs.org/curriculum) curriculum that targets K-9 Computer Science education, with both "unplugged" and online instructional activities.*
+
+Offered as a synchronous, online class during the Summer, via CSU Chico Regional and Continuing Education (RCE).
+
+
+# Learning Objectives
+
+## Supplementary Authorization
+
+This course is required for the [Supplementary Authorization in Introductory Computer Science](http://www.ctc.ca.gov/credentials/manuals-handbooks/Supplement-Auth.pdf), which prepares teachers for Computer Science courses in grade levels K-9. In this course, you will *learn and be assessed on* the **Computational thinking** concept area. Computational thinking involves solving problems and designing systems, using fundamental computing concepts such as decomposition, data representation, generalization/abstraction, and algorithms.
+
+In addition, you will be *introduced* to **Impacts of computing**. This concept area includes the social, ethical, and legal issues and impacts of computing, as well as the contributions of computer science to current and future innovations in the arts, business, humanities, medicine, and science. These topics may be included within courses that cover any of the other content areas.
+
+The course also serves as an introduction to the Computer Science discipline and will help prepare you in higher level Computer Science Education (CSED) courses, including the remainder of the *Supplementary Authorization in Introductory Computer Science* as well as those required for the [Supplemental Authorization in Specific Computer Science](http://www.ctc.ca.gov/credentials/manuals-handbooks/Supplement-Auth.pdf).
